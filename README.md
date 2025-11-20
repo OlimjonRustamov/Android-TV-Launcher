@@ -36,4 +36,4 @@ Result:
 ![Usage App](additional_files/recording.gif)
 
 Link to APK file to install
-![additional_files/android_tv_launcher.apk](additional_files/android_tv_launcher.apk)
+![additional_files/android-tv-launcher.apk](additional_files/android-tv-launcher.apk)
