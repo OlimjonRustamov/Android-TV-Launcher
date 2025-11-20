@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestLauncher</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <string name="accessibility_service_description">
+    Accessibility service for TV launcher navigation and automation.
+</string>
+</resources>
